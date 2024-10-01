@@ -1,0 +1,57 @@
+@media (min-width: 1500px){
+    .container{
+        max-width: 1250 ;
+    }
+}
+body{
+    font-family: 'roboto', sans-serif;
+}
+
+
+.navbar-brand{
+    font-family: '';
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link{
+    font-family: 'roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+
+
+
+.home{
+    background-color: #F0F5F9;
+    padding: 150px  100px ;
+}
+
+
+
+
+.about-card-1{
+    background-color: #FFF2E5;
+}
+
+.about-card-2{
+    background-color: #F8F9FA;
+}
+
+.about-card-3{
+    background-color: #F0F5F9;
+}
+
+
+.reviews__container{
+    background-color: #F0F5F9;
+    padding: 100px 50px ;
+}
+
+.faq-container{
+    background-color: #F0F5F9;
+    padding: 100px 50px ;
+}
